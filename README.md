@@ -4,7 +4,7 @@
 <br>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Khaleeb&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+    alt="Khaleeb" /> 
   </p>
 
 <br>
@@ -12,8 +12,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="khaleeb" /></p>
 
 
-- 🌱 I’m currently working in Cloud Security Architecture
-
+- 🌱 Currently working in Cloud Security Architecture
 - 📫 How to reach me **cdavis1530@gmail.com**
 
 <br>
