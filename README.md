@@ -1,21 +1,4 @@
-<h1 align="center">Hi 👋, I'm Caleb Davis</h1>
-<h3 align="center">Student at University of Delaware.</h3>
-
-<br>
-
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Khaleeb&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Khaleeb" /> 
-  </p>
-
-<br>
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="khaleeb" /></p>
-
-
-- 🌱 Currently working in Cloud Security Architecture
-- 📫 How to reach me **cdavis1530@gmail.com**
-
-<br>
+<p><img align="right" src="https://github.com/Khaleeb/Khaleeb/blob/master/assets/dark-souls-bonfire.gif" alt="khaleeb" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
